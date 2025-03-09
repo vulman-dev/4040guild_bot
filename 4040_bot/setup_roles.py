@@ -123,4 +123,4 @@ class OfficerApprovalView(ui.View):
         )
 
 # Запуск бота
-bot.run("MTM0Nzg1MzI1ODI4NjQzNjQzNA.GB4Gqj.X21SSsY2xOVU-dl3IrTauyopsAUrp2wjRJnT8I")
+bot.run("")
